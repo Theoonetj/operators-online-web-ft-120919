@@ -6,6 +6,7 @@ if spseed < 40 || spseed >60
 else 
   return "safe range"
 end
+end
 
 
 
