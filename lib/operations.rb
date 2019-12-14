@@ -2,7 +2,7 @@ def unsafe?(speed)
 
 spseed = 50
 if spseed < 40 || spseed >60
-  return
+  return ""
 end
 
 
